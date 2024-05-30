@@ -35,7 +35,7 @@ gem 'anjlab-bootstrap-rails', :require => 'bootstrap-rails'
 gem 'kaminari'
 
 # Nokogiri
-gem 'nokogiri'
+gem 'nokogiri', '>= 1.16.5'
 
 gem 'addressable'
 gem 'domainatrix'
